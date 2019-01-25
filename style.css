@@ -1,0 +1,16 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+.box {
+	float: left;
+	width: 100px;
+	height: 100px;
+	background-color: #fea500;
+	margin: 5px;
+	border-radius: 5px;
+}
+.line {
+	width: 330px;
+	margin: 0 auto;
+}
